@@ -63,3 +63,8 @@
     #tymczasowa=tymczasowa+cyfra
     #liczba=liczba//10
 #print("Całkowita suma cyfr wynosi:",tymczasowa)
+#Zadanie 10.
+#for i in range(0, 6, 1):
+    #for j in range(0, i+1, 1):
+        #sys.stdout.write('A')
+    #sys.stdout.write('\n')

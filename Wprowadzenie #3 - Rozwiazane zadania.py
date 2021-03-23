@@ -48,3 +48,9 @@
 
 #print (sprawdzanie(-1,1))
 #zadanie 6
+#Podany wzór na równanie okręgu (x-a)^2+(y-b)^2=r^2
+#def okrąg (x,a,y,b):
+    #r=((x-a)**2+(y-b)**2)**0.5
+    #return r
+#print ("Długość promienia z podanych wartości wynosi: ")
+#print (okrąg(0,0,0,0))

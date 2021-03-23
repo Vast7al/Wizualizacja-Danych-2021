@@ -38,8 +38,13 @@
 #sprawdzanie czy dwie proste są równoległe/prostopadłe
 #y1=a1x+b1, y2=a2x+b2
 #równoległe a1=a2, prostopadłe gdy a1a2=-1
-def sprawdzanie (a1,a2):
-    if (a1==a2):
-        print("Podane proste są równoległe")
-    elif (a1*a2==-1):
-        print("Podane proste są prostopadłe")
+#def sprawdzanie (a1,a2):
+    #if (a1==a2):
+        #print("Podane proste są równoległe")
+    #elif (a1*a2==-1):
+        #print("Podane proste są prostopadłe")
+    #else:
+        #print("Podane proste nie są równoległe jak i prostopadłe")
+
+#print (sprawdzanie(-1,1))
+#zadanie 6

@@ -54,3 +54,29 @@
     #return r
 #print ("Długość promienia z podanych wartości wynosi: ")
 #print (okrąg(0,0,0,0))
+#zadanie 7
+#def przeciwprostokatna (a,b):
+     #c=(a**2+b**2)**0.5
+     #return c
+
+
+#print("podaj bok a i b")
+#a=float(input("a = "))
+#b=float(input("b = "))
+#print("Przeciwprostokątna wynosi...")
+#print(przeciwprostokatna(a,b))
+#zadanie 8
+#Zdefiniuj funkcję, która zwraca sumę dowolnego ciągu arytmetycznego. Funkcja niech przyjmuje jako parametry: 
+# a1 (wartość początkowa), 
+# r (wielkość o ile rosną kolejne elementy) i 
+# ile_elementów (ile elementów ma sumować). 
+# Ponadto funkcja niech przyjmuje wartości domyślne: a1= 1, r=1, ile=10.
+#def suma(a1,r,ilosc):
+    #x=ilosc*(2*a1+(ilosc-1)*r)/2
+    #return x
+
+#a1=float(input("Podaj pierwszy wyraz ciągu:\n"))
+#ilosc=float(input("Podaj ilość elementów ciągu\n"))
+#r=float(input("podaj róznicę ciągu (r)\n"))
+#print("Suma ciągu wynosi...")
+#print(suma(a1,r,ilosc))

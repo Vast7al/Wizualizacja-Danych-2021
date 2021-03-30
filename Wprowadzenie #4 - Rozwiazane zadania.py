@@ -12,6 +12,18 @@ import math
 
 #file.close()
 #zadanie 2.
-file=open("podzielne.txt","r")
-odczyt=file.readlines()
-print(odczyt)
+#file=open("podzielne.txt","r")
+#odczyt=file.readlines()
+#print(odczyt)
+#zadanie 3.
+#gry = ["Mass Effect","Star Wars: Knights of the Old Republic","Planescape Torment","Max Payne","The Last of Us","Persona"]
+##file=open("gry.txt","a+")
+##file.writelines(str(gry))
+##file.close()
+#with open("gry.txt", "r") as file:
+    #for text in file:
+        #print(text, end="-]")
+#zadanie 4
+
+
+

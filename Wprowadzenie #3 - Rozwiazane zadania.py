@@ -6,8 +6,8 @@
 #B=[2 ** i for i in range(11)]
 #C=[x for x in B if x % 4 == 0]
 #zadanie 2
-#m = [[random.randint(0, 9) for x in range (0, 4, 1)] for y in range (0, 4, 1)]
-#p = [m[x][y] for x in range (0, 4, 1) for y in range (0, 4, 1) if x == y]
+#m = [[random.randint(0, 9) for x in range (0, 4, 1)] for y in range (0, 4, 1)] // nasza macierz
+#p = [m[x][y] for x in range (0, 4, 1) for y in range (0, 4, 1) if x == y] //elementy znajdujace sie na przekatnej
 #print(m[0])
 #print(m[1])
 #print(m[2])

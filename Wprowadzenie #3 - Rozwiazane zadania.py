@@ -14,12 +14,7 @@
 #print(m[3])
 #print("Elementy znajdujące się na przekątnej : ",p)
 #zadanie 3
-#slownik = {'brzoskwinia': 'kg','maliny': 'dag','baton': 'sztuki',}
-#slownik_odw = {value: key for key, value in slownik.items()}
-#print("Słownik")
-#print(slownik)
-#print("Słownik odwrócony: ")
-#print(slownik_odw)
+#slownik = ['brzoskwinia': 'kg','maliny': 'dag','baton': 'sztuki',]
 #zadanie 4
 #def monotonicznosc(a):
     #if (a<0):
@@ -28,9 +23,6 @@
         #print("Funkcja jest stała")
     #elif (a>0):
         #print("Funkcja jest rosnąca")
-
-
-
 #print (monotonicznosc(0))
 #print (monotonicznosc(-1))
 #print (monotonicznosc(1))

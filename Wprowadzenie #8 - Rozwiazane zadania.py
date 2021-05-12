@@ -5,11 +5,11 @@
 #"pip install pandas" wpisywane w cmd
 #import pandas
 #import openpyxl
-#DataFrame = pandas.read_excel(pandas.ExcelFile("datasets/imiona.xlsx"), "ArkuszNarodziny")
+#DataFrame = pandas.read_excel(pandas.ExcelFile("datasets do labow/imiona.xlsx"), "Arkusz1")
 #print(DataFrame)
 #zadanie 2
 #te same biblioteki co w zadaniu 1
-#DataFrame = pandas.read_excel(pandas.ExcelFile("datasets/imiona.xlsx"), "ArkuszNarodziny")
+#DataFrame = pandas.read_excel(pandas.ExcelFile("datasets do labow/imiona.xlsx"), "Arkusz1")
 #def a(DataFrame):
     #a) tylko te rekordy gdzie liczba nadanych imion była większa niż 1000 w danym roku
     #print(DataFrame[DataFrame["Liczba"]>1000])
